@@ -1,0 +1,4 @@
+processed_audio_files/
+processed_audio_files2/
+Respiratory_Sound_Database
+*.npy
